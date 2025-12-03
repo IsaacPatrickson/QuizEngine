@@ -1,4 +1,6 @@
-## **Digital Quiz System — A-Level NEA Project**
+#  **Digital Quiz System — A-Level NEA Project**
+
+## 📌 Overview
 
 This project is a fully functional **digital quiz platform** built in **Python** with a **MySQL relational database backend**.
 It allows users to create quizzes, take quizzes, store results, and view leaderboards — functioning similarly to platforms like Kahoot but with a Python-driven interface and custom SQL schema.
