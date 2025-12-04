@@ -1,4 +1,4 @@
-#  **Digital Quiz System — A-Level NEA Project**
+#  **QuizEngine — A-Level NEA Project**
 
 ## 📌 Overview
 
