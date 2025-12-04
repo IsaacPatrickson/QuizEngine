@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql&logoColor=white)
+![CLI App](https://img.shields.io/badge/Interface-Console-lightgrey)
+![OOP](https://img.shields.io/badge/Architecture-OOP-green)
+
 #  **QuizEngine — A-Level NEA Project**
 
 ## 📌 Overview
